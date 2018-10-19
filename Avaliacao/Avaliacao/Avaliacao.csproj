@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Ramon Cirino\Desktop\UNA - ADS\1º Período\Práticas de Programação\Atividade avaliativa\Avaliacao.cs" Link="Avaliacao.cs" />
+  </ItemGroup>
+
+</Project>

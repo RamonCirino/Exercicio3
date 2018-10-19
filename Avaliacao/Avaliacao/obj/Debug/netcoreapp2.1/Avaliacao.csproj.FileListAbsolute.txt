@@ -1,0 +1,11 @@
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\bin\Debug\netcoreapp2.1\Avaliacao.deps.json
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\bin\Debug\netcoreapp2.1\Avaliacao.runtimeconfig.json
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\bin\Debug\netcoreapp2.1\Avaliacao.runtimeconfig.dev.json
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\bin\Debug\netcoreapp2.1\Avaliacao.dll
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\bin\Debug\netcoreapp2.1\Avaliacao.pdb
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\obj\Debug\netcoreapp2.1\Avaliacao.csprojAssemblyReference.cache
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\obj\Debug\netcoreapp2.1\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\obj\Debug\netcoreapp2.1\Avaliacao.AssemblyInfoInputs.cache
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\obj\Debug\netcoreapp2.1\Avaliacao.AssemblyInfo.cs
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\obj\Debug\netcoreapp2.1\Avaliacao.dll
+C:\Users\Ramon Cirino\source\repos\Avaliacao\Avaliacao\obj\Debug\netcoreapp2.1\Avaliacao.pdb
