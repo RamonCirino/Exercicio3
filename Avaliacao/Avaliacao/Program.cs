@@ -14,7 +14,7 @@ namespace Avaliacao
                 return b;
         }
 
-        // Função utilizada no exercício 2.
+        // Função utilizada no exercício 3.
 
         static bool Par(int a)
         {
